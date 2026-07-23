@@ -1,0 +1,58 @@
+{
+  "packageName": "com.tap_to_translate.snap_translate",
+  "versionName": "1.115",
+  "forceUpdate": false,
+  "ExpiredDate": "2025/12/27 02:20",
+  "description": "Official Release v4.0 is out!\nNew UI elements and themes.\nEnhanced performance and stability.\n Subscription free download \n new update available best performance",
+  "buttonText": " DOWNLOAD ",
+  "buttonUrl": "https://t.me/TechWebLab",
+  "cancelButtonText": "Close",
+  "appListButton": {
+    "iconUrl1": "https://bit.ly/3SpVUFu",
+    "iconUrl2": "https://bit.ly/4gEvZDL"
+  },
+  "appList": [
+    {
+      "iconUrl": "https://bit.ly/icon_CapCut",
+      "appName": "CapCut PRO",
+      "appVersion": "26.6.6",
+      "url": "https://t.me/TechWebLab"
+    },
+    {
+      "iconUrl": "https://i.postimg.cc/SxZ0XxfB/proton.png",
+      "appName": "ProtonVPN pro",
+      "appVersion": "5.19.43.0",
+      "url": "https://t.me/TechWebLab"
+    },
+    {
+      "iconUrl": "https://i.postimg.cc/wMQswxzm/vn.png",
+      "appName": "VN PRO",
+      "appVersion": "2.14.1",
+      "url": "https://t.me/TechWebLab"
+    },
+    {
+      "iconUrl": "https://i.postimg.cc/13Wxg3r2/remini.png",
+      "appName": "Remini pro",
+      "appVersion": "3.7.13.67",
+      "url": "https://t.me/TechWebLab"
+    }
+  ],
+  "epicList": [
+    {
+      "iconUrl": "https://i.postimg.cc/kM202C2Q/twimage.png",
+      "url": "https://t.me/TechWebLab"
+    },
+    {
+      "iconUrl": "https://i.postimg.cc/8cH2Gpyx/648403982-17954351676081135-8687668975094857276-n.jpg",
+      "url": "https://www.instagram.com/a_murtazayev09?igsh=eGhha3AxYXV4Y29n"
+    },
+    {
+      "iconUrl": "https://i.postimg.cc/kG1bL8mb/Intagram.png",
+      "url": "https://www.instagram.com/techweblab"
+    },
+    {
+      "iconUrl": "https://i.postimg.cc/RZPr3ZLj/youtube.png",
+      "url": "https://youtube.com/@techweblab?si=55WYmD1E-9U91-k2"
+    }
+  ]
+}
